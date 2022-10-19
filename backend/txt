@@ -1,0 +1,1 @@
+npx sequelize model:generate --name Chat --attributes user_id:integer,content:string,channel_id:integer
